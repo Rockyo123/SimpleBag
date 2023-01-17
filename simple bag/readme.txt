@@ -1,0 +1,1 @@
+Simple bag class in C++
